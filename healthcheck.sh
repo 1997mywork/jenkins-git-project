@@ -13,3 +13,4 @@ df -h
 
 echo "health check completed"
 
+echo "Build executed successfully from Jenkins"
